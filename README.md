@@ -19,26 +19,42 @@ Proyecto desarrollado en Java usando Eclipse.
 
 ---
 
-<h3 align="center">Tecnologías principales</h3>
+---
 
-<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=java" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=git" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" width="100" height="100"/>
+## ⚙️ Entorno de desarrollo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="70"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="70"/>
+  <img src="https://skillicons.dev/icons?i=git" width="70"/>
+  <img src="https://skillicons.dev/icons?i=github" width="70"/>
+  <img src="https://skillicons.dev/icons?i=maven" width="70"/>
 </p>
 
 ---
 
-<h3 align="center">Entorno de desarrollo</h3>
-
-<p align="center" style="display:flex; justify-content left; gap:20px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=java" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=git" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
-  <img src="https://skillicons.dev/icons?i=maven" width="100" height="100"/>
+## 🧩 Tecnologías principales
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="70"/>
+  <img src="https://skillicons.dev/icons?i=git" width="70"/>
+  <img src="https://skillicons.dev/icons?i=github" width="70"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="70"/>
 </p>
+
+---
+
+## 🔧 Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
+</p>
+
+---
+
+## 📦 Control de versiones
+Repositorio gestionado con Git y alojado en GitHub para control de cambios y colaboración.
 
 ---
 
