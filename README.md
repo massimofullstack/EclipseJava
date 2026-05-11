@@ -29,7 +29,7 @@ Musta
 <h3 align="center">Entorno de desarrollo</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,eclipse,git,github,maven,spring,intellij,vscode,docker&titles=true" alt="Stack Java" height="140"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,eclipse,git,github,maven,spring,intellij,vscode,docker&titles=true" alt="Stack Java" height="120"/>
 </p>
 
 <h3 align="center">Backend Java</h3>
